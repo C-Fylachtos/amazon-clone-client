@@ -1,0 +1,7 @@
+.MuiCollapse-container:nth-child(1) {
+  margin-top: 50px;
+}
+
+.MuiLinearProgress-root {
+  width: 100%;
+}
